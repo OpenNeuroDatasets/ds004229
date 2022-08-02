@@ -1,0 +1,6 @@
+1.0.2 2022-08-02
+  - Add ct_sparse.fif and sss_cal.dat to meg_derivatives
+1.0.1 2022-08-02
+  - Make public
+1.0.0 2022-08-02
+  - Initialize dataset
