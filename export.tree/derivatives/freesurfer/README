@@ -1,5 +1,0 @@
-FreeSurfer derivatives for source imaging
-=========================================
-
-These were produced using ``mne coreg`` and
-``mne.datasets.fetch_infant_dataset`` on the ``ANTS6-0Months3T`` template.
